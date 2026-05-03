@@ -45,7 +45,6 @@ Videojuego 2D en Python con Pygame con mecánicas de combate y niveles.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dcuartascode&theme=tokyonight)
 
 ---
----
 
 ## 📫 Contacto
 
