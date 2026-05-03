@@ -42,30 +42,16 @@ Videojuego 2D en Python con Pygame con mecánicas de combate y niveles.
 
 ## 📊 Actividad
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dcuartascode&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dcuartascode&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dcuartascode&theme=tokyonight)
 
 ---
-
-## 🧠 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcuartascode&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🐍 Actividad dinámica (animación sutil)
-
-![snake gif](https://github.com/dcuartascode/dcuartascode/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 📫 Contacto
 
-- 📧 davidcuartashernandez@gmail.com  
-- 🔗 https://www.linkedin.com/in/david-cuartas  
+- 📧 [davidcuartashernandez@gmail.com](mailto:davidcuartashernandez@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/david-cuartas)
 
 ---
 
 ⭐ Siempre aprendiendo y construyendo soluciones reales
--->
